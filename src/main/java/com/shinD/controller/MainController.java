@@ -31,6 +31,7 @@ import com.shinD.controller.member.MemberSignUp;
 import com.shinD.controller.member.MemberUpdate;
 import com.shinD.controller.member.MemberWithdraw;
 import com.shinD.controller.message.InsertMessageController;
+import com.shinD.controller.message.MakeNewChatRoomController;
 import com.shinD.controller.message.MessageToConnectMemberController;
 import com.shinD.controller.message.ReadConnectRoomController;
 import com.shinD.controller.message.SelectChatRoomController;
